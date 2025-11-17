@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/n_queens.dir/link.d CMakeFiles/n_queens.dir/main.cpp.o -o n_queens
